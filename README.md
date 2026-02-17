@@ -13,3 +13,8 @@ No Koshi OS does not support low-end device it needs high-end device like Galaxy
 Will 32-bit version available?
 
 Yes Koshi OS 32-bit os will be released coming soon but keep in mind that its WAY different.
+
+Is this a ROM?
+
+No this is only for virtual master.
+https://www.virtualmaster.app/
